@@ -59,4 +59,4 @@ Data Analysis Using Power BI
 
 ![Sales Insights_page-0004](https://github.com/user-attachments/assets/c877ccff-0be8-4842-a9d1-caa64d82284b)
 
-
+view dashboard : https://app.powerbi.com/groups/me/reports/4f7015c1-3ba6-4247-96f5-7b837fce6f43/ReportSection?bookmarkGuid=1b527847-47ed-447f-85d8-64981e1b11af&bookmarkUsage=1&ctid=f00f2f39-2ff1-431f-aba9-3273f8ad190e&portalSessionId=2a7cc351-55ea-4476-8e64-de892996c9e5&fromEntryPoint=export
